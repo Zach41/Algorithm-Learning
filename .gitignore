@@ -1,0 +1,11 @@
+# ignore file
+
+# no .o files
+*.o
+
+# no emacs generate file
+*\#*
+*~
+
+# no debug files
+*.o.dSYM/
