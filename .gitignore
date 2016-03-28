@@ -9,3 +9,8 @@
 
 # no debug files
 *.o.dSYM/
+
+# gtags file
+GPATH
+GRTAGS
+GTAGS
